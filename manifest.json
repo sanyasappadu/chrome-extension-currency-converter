@@ -1,0 +1,16 @@
+{
+  "name": "Currency Converter Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A simple Currency Converter Chrome extension using html, css and javascript",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "icons": {
+    "48": "icon.png"
+  }
+}
